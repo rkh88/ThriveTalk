@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Larsseit";
+    font-weight: 100;
+    src: url("./Font/Larsseit-Thin.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Larsseit";
+    font-weight: 400;
+    src: url("./Font/Larsseit-Medium.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Larsseit";
+    font-weight: 900;
+    src: url("./Font/Larsseit-ExtraBold.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Larsseit";
+    font-weight: 700;
+    src: url("./Font/Larsseit-Bold.ttf") format("ttf");
+}
+
+
+
